@@ -1,0 +1,48 @@
+{
+  "CartProducts": [
+    {
+      "id": 1,
+      "title": "Ipad",
+      "description": "iPad Pro 11",
+      "releaseDate": "14 September, 2021 year",
+      "imageURL": "https://content1.rozetka.com.ua/goods/images/big/274567849.jpg",
+      "developer": "Apple Inc",
+      "count": 1,
+      "price": 1899,
+      "priceTotal": 3788
+    },
+    {
+      "id": 2,
+      "title": "Ipad",
+      "description": "iPad Air 11",
+      "releaseDate": "14 September, 2021 year",
+      "imageURL": "https://content1.rozetka.com.ua/goods/images/big/274567849.jpg",
+      "developer": "Apple Inc",
+      "count": 1,
+      "price": 1899,
+      "priceTotal": 3788
+    },
+    {
+      "id": 3,
+      "title": "Ipad",
+      "description": "iPad Pro 10",
+      "releaseDate": "14 September, 2021 year",
+      "imageURL": "https://content1.rozetka.com.ua/goods/images/big/274567849.jpg",
+      "developer": "Apple Inc",
+      "count": 2,
+      "price": 1899,
+      "priceTotal": 3788
+    },
+    {
+      "id": 4,
+      "title": "Mac",
+      "description": "iPad Pro 11",
+      "releaseDate": "14 September, 2021 year",
+      "imageURL": "https://content1.rozetka.com.ua/goods/images/big/274567849.jpg",
+      "developer": "Apple Inc",
+      "count": 2,
+      "price": 1899,
+      "priceTotal": 3788
+    }
+  ]
+}
